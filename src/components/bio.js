@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/riddle_icon.png"
+        src="../images/sean_icon.png"
         width={50}
         height={50}
         quality={95}
@@ -46,8 +46,8 @@ const Bio = () => {
         <p>
           <strong>{author.name} {author?.summary || null}
           {` `}
-          <a href={`https://www.linkedin.com/in/rui-hua-650847142/`}>
-            @仙都蕊拉
+          <a href={`https://www.linkedin.com/in/xiaolai-sean-chen-frm-189062127/`}>
+            @Xiaolai
           </a></strong>
         </p>
       )}

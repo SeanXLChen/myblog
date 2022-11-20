@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `RuiRuiRoom`,
+    title: `XiaolaiSean`,
     author: {
-      name: `Rui Hua`,
-      summary: `| Senior Data Analyst at @Aurora｜Traveler 🏔️ , Vlogger 📷 , Foodie 🍗 /`,
+      name: `Xiaolai Chen`,
+      summary: `| MSCS student at NEU Van｜Web3 Builder｜Walker 🏔️ , Vlogger 📷 , Foodie 🍗 , Hunan Cuisine Chief 👨‍🍳｜`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -118,7 +118,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/riddle_icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/sean_icon.png`, // This path is relative to the root of the site.
       },
     },
   ],
