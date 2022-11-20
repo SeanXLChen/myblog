@@ -12,7 +12,7 @@ module.exports = {
     title: `XiaolaiSean`,
     author: {
       name: `Xiaolai Chen`,
-      summary: `| MSCS student at NEU Van｜Web3 Builder｜Walker 🏔️ , Vlogger 📷 , Foodie 🍗 , Hunan Cuisine Chief 👨‍🍳｜`,
+      summary: `| MSCS student at NEU Van｜Web3 Builder｜Walker 🏔️ , Vlogger 📷 , Foodie 🍗 , Hunan Cuisine Chef 👨‍🍳｜`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
