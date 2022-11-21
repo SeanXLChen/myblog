@@ -4,7 +4,7 @@ date: "2022-07-01T22:12:03.284Z"
 description: "[Travel]与ruirui一起，领略美食之都长沙 Changsha vlog-04"
 --- 
 
-国庆节陪爸妈去了山东的好多地方，济南的大明湖，趵突泉；泰安的岱庙，还有曲阜的好多孔子related sites...
+第一次开始制作vlog，很青涩但确实是一种很好的记录生活的方式，10年后再看，一定别有一番风味吧哈哈😂
 
 >**【旅行】长沙出游vlog P1**
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/b-dlKh0dCBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
